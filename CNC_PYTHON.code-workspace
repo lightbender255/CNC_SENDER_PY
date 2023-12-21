@@ -1,10 +1,12 @@
 {
-  "folders": [
-    {
-      "path": "from_the_web"
-    }
-  ],
-  "settings": {
-    "workbench.colorCustomizations": {}
-  }
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"tab.activeBorderTop": "#FA9E9E"
+		}
+	}
 }
